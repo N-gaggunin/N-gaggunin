@@ -13,6 +13,8 @@ I'm a **Full-Stack Developer** passionate about building real-world web applicat
 ---
 
 ## 🛠️ Tech Stack
+
+### Frontend
 <img src="https://skillicons.dev/icons?i=react,html,css,js" />
 
 ### Backend
